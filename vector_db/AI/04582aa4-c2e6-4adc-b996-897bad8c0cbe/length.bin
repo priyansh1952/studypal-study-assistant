@@ -1,0 +1,7 @@
+theorems proof and geometric problems and chess playing. GPS solved many simple problems, 
+such as the Towers of Hanoi, that could be sufficiently formalized, but GPS could not solve any 
+real-world problems. 
+ 
+To build a system to solve a particular problem, we need to: 
+ Define the problem precisely – find input situations as well as final situations for an 
+acceptable solution to the prob
